@@ -7,6 +7,6 @@ playlist['Slowdive'] = 'Alison'
 }
 
 function removeFromPlaylist(playlist, artistName){
-  delete playlist."Slowdive";
+  delete playlist.Slowdive;
   return playlist
 }
