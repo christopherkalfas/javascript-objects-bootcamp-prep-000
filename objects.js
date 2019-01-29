@@ -1,4 +1,4 @@
-var playlist= { "Green Day": "American Idiot"  };
+var playlist= { "Phil Ochs": "Here's to the state of Mississippi"  };
 
 function updatePlaylist(playlist, artistName,songTitle){
 playlist['Slowdive'] = 'Alison'
